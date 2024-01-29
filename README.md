@@ -1,5 +1,5 @@
 # workshop-2024
-FAECTOR Git workshop 2024 b
+FAECTOR Git workshop 2024 a
 
 Hello world
 
